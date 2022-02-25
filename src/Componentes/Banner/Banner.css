@@ -1,0 +1,12 @@
+.banner {
+    font-size: 12px;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    margin-top: 0px;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}

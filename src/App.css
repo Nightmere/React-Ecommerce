@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto Condensed', sans-serif !important;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
